@@ -1,6 +1,8 @@
-# jarmos
+# Jarmos
 
-CLI graphing calculator in Java
+A CLI graphing calculator I made whilst learning Java. It's primitive at best, with basic operations and no functions. It was more of a tool to learn parsing and Java.
+
+It supports different levels of accuracy and graph sizes.
 
 ## Caveats
 
@@ -19,7 +21,7 @@ Compile Jarmos with the following command:
 
 Then run using:
 
-`java Jarmos [formula] <accuracy> <graph width> <graph height>
+`java Jarmos [formula] <accuracy> <graph width> <graph height>`
 
 Jarmos accepts 4 arguments:
 
